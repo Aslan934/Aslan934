@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aslan Rustamov
 
-### Data Analyst & Business Intelligence Specialist from Azerbaijan
+### Data Analyst & Business Intelligence Specialist
 
 - 🧠 Skilled in **Excel, Power Query, SQL, Power BI, Python, Data Visualization**
 - 💬 Ask me about **Excel, Power Query, Pivot Tables, Data Visualization, Business Analytics**
